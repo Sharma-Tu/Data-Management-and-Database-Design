@@ -1,7 +1,5 @@
-# Data-Management-and-Database-Design-INFO-6120
+# Data-Management-and-Database-Design
 Project work description-
 
-Design and build a financial lending and expense tracking application using SQL and PHP.
+Design and build a financial lending and expense tracking application using SQL and PHP/html.
 
-Course Information-
-https://www.coursicle.com/neu/courses/INFO/6210/
